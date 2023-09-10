@@ -1,6 +1,6 @@
 #!/bin/bash
 
-API="9mp2nDbos40uijUK6OQIt1XE5vlgakrB"
+API="YOUR-API-KEY"
 
 IFS=$(echo -en "\n\b")
 
